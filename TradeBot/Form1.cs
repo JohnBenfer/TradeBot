@@ -16,10 +16,18 @@ namespace TradeBot
         public Form1()
         {
             InitializeComponent();
+
+            
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
             
 
-
         }
+
+        FinnhubClient Apple = new FinnhubClient("AAPL", "quote?symbol=", "&token=bol573vrh5rd0m2j1ktg");
+
         RestRequest request;
         RestClient client;
         static string baseurl = "https://finnhub.io/api/v1/";
@@ -45,14 +53,16 @@ namespace TradeBot
         private void GetPriceButton_Click(object sender, EventArgs e)
         {
             client = new RestClient(baseurl);
-            request = new RestRequest(action, Method.GET);
-            request.AddUrlSegment("ticker", "AAPL");
-            request.AddUrlSegment("key", key);
 
-            RestRequest r = new RestRequest("quote?symbol=AAPL&token=bol573vrh5rd0m2j1ktg", Method.GET);
+            //RestRequest r = new RestRequest("quote?symbol=AAPL&token=bol573vrh5rd0m2j1ktg", Method.GET);
 
-            var content = client.Execute(r).Content;
-            Console.WriteLine(content.ToString());
+            Console.WriteLine("Content: ");
+            Console.WriteLine(Apple.Execute());
+
+
+
         }
+
+
     }
 }

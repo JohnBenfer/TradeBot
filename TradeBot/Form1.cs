@@ -16,15 +16,12 @@ namespace TradeBot
         public Form1()
         {
             InitializeComponent();
-
-            
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
-
         }
+
 
         FinnhubClient Apple = new FinnhubClient("AAPL", "quote?symbol=", "&token=bol573vrh5rd0m2j1ktg");
 
@@ -34,16 +31,6 @@ namespace TradeBot
         static string action = "quote?symbol={ticker}&token={key}";
         static string key = "bol573vrh5rd0m2j1ktg";
          
-
-        /*
-         * 
-         * request = new RestRequest("{events}/with/key/{key}", Method.POST);
-            request.AddUrlSegment("key", key);
-            request.AddUrlSegment("events", trigger);
-            var content = client.Execute(request).Content;
-            return true;
-         * 
-         */
 
         private void ShareName_Click(object sender, EventArgs e)
         {

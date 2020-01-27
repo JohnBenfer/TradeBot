@@ -25,6 +25,10 @@ namespace TradeBot
         private void Form1_Load(object sender, EventArgs e)
         {
             SelectedStock.SelectedIndex = 0;
+            StockGrid.Rows.Add("AAPL", AAPL.ShareCount, AAPL.AvgBuyPrice, AAPL.AvgSellPrice);
+            StockGrid.Rows.Add("F", F.ShareCount, F.AvgBuyPrice, F.AvgSellPrice);
+            StockGrid.Rows.Add("BBY", BBY.ShareCount, BBY.AvgBuyPrice, BBY.AvgSellPrice);
+            RefreshStockGrid();
         }
 
 
@@ -44,7 +48,13 @@ namespace TradeBot
 
         }
 
-
+        private void RefreshStockGrid()
+        {
+            StockGrid.Rows.Clear();
+            StockGrid.Rows.Add("AAPL", AAPL.ShareCount, AAPL.AvgBuyPrice, AAPL.AvgSellPrice);
+            StockGrid.Rows.Add("F", F.ShareCount, F.AvgBuyPrice, F.AvgSellPrice);
+            StockGrid.Rows.Add("BBY", BBY.ShareCount, BBY.AvgBuyPrice, BBY.AvgSellPrice);
+        }
 
         private void GetPriceButton_Click(object sender, EventArgs e)
         {
@@ -54,11 +64,13 @@ namespace TradeBot
         private void BuyButton_Click(object sender, EventArgs e)
         {
             CurrentStock.Buy();
+            RefreshStockGrid();
         }
 
         private void SellButton_Click(object sender, EventArgs e)
         {
             CurrentStock.Sell();
+            RefreshStockGrid();
         }
 
         private void StockList_SelectedIndexChanged(object sender, EventArgs e)

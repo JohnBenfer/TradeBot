@@ -45,18 +45,19 @@
             // ShareName
             // 
             this.ShareName.AutoSize = true;
-            this.ShareName.Location = new System.Drawing.Point(25, 23);
+            this.ShareName.Location = new System.Drawing.Point(28, 29);
             this.ShareName.Name = "ShareName";
-            this.ShareName.Size = new System.Drawing.Size(90, 17);
+            this.ShareName.Size = new System.Drawing.Size(100, 20);
             this.ShareName.TabIndex = 0;
             this.ShareName.Text = "Stock Ticker:";
             this.ShareName.Click += new System.EventHandler(this.ShareName_Click);
             // 
             // GetPriceButton
             // 
-            this.GetPriceButton.Location = new System.Drawing.Point(486, 19);
+            this.GetPriceButton.Location = new System.Drawing.Point(547, 24);
+            this.GetPriceButton.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.GetPriceButton.Name = "GetPriceButton";
-            this.GetPriceButton.Size = new System.Drawing.Size(87, 24);
+            this.GetPriceButton.Size = new System.Drawing.Size(98, 30);
             this.GetPriceButton.TabIndex = 1;
             this.GetPriceButton.Text = "Get Price";
             this.GetPriceButton.UseVisualStyleBackColor = true;
@@ -64,9 +65,10 @@
             // 
             // BuyButton
             // 
-            this.BuyButton.Location = new System.Drawing.Point(298, 19);
+            this.BuyButton.Location = new System.Drawing.Point(335, 24);
+            this.BuyButton.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.BuyButton.Name = "BuyButton";
-            this.BuyButton.Size = new System.Drawing.Size(90, 24);
+            this.BuyButton.Size = new System.Drawing.Size(101, 30);
             this.BuyButton.TabIndex = 2;
             this.BuyButton.Text = "Buy";
             this.BuyButton.UseVisualStyleBackColor = true;
@@ -74,9 +76,10 @@
             // 
             // SellButton
             // 
-            this.SellButton.Location = new System.Drawing.Point(394, 19);
+            this.SellButton.Location = new System.Drawing.Point(443, 24);
+            this.SellButton.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.SellButton.Name = "SellButton";
-            this.SellButton.Size = new System.Drawing.Size(86, 24);
+            this.SellButton.Size = new System.Drawing.Size(97, 30);
             this.SellButton.TabIndex = 3;
             this.SellButton.Text = "Sell";
             this.SellButton.UseVisualStyleBackColor = true;
@@ -88,19 +91,22 @@
             this.SelectedStock.Items.AddRange(new object[] {
             "AAPL (Apple)",
             "F (Ford)",
-            "BBY (Best Buy)"});
-            this.SelectedStock.Location = new System.Drawing.Point(121, 19);
+            "BBY (Best Buy)",
+            "BTC (Bitcoin)"});
+            this.SelectedStock.Location = new System.Drawing.Point(136, 24);
+            this.SelectedStock.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.SelectedStock.Name = "SelectedStock";
-            this.SelectedStock.Size = new System.Drawing.Size(171, 24);
+            this.SelectedStock.Size = new System.Drawing.Size(192, 28);
             this.SelectedStock.TabIndex = 5;
             this.SelectedStock.SelectedIndexChanged += new System.EventHandler(this.SelectedStock_SelectedIndexChanged);
             // 
             // MessageOutput
             // 
-            this.MessageOutput.Location = new System.Drawing.Point(12, 428);
+            this.MessageOutput.Location = new System.Drawing.Point(14, 535);
+            this.MessageOutput.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.MessageOutput.Multiline = true;
             this.MessageOutput.Name = "MessageOutput";
-            this.MessageOutput.Size = new System.Drawing.Size(824, 114);
+            this.MessageOutput.Size = new System.Drawing.Size(926, 142);
             this.MessageOutput.TabIndex = 6;
             // 
             // StockGrid
@@ -113,13 +119,15 @@
             this.SharesColumn,
             this.AvgBuyPriceColumn,
             this.AvgSellPriceColumn});
-            this.StockGrid.Location = new System.Drawing.Point(12, 64);
+            this.StockGrid.Location = new System.Drawing.Point(14, 80);
+            this.StockGrid.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.StockGrid.Name = "StockGrid";
             this.StockGrid.ReadOnly = true;
             this.StockGrid.RowHeadersWidth = 51;
             this.StockGrid.RowTemplate.Height = 24;
-            this.StockGrid.Size = new System.Drawing.Size(824, 358);
+            this.StockGrid.Size = new System.Drawing.Size(927, 448);
             this.StockGrid.TabIndex = 7;
+            this.StockGrid.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.StockGrid_CellContentClick);
             // 
             // StockColumn
             // 
@@ -155,9 +163,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(848, 554);
+            this.ClientSize = new System.Drawing.Size(954, 692);
             this.Controls.Add(this.StockGrid);
             this.Controls.Add(this.MessageOutput);
             this.Controls.Add(this.SelectedStock);
@@ -165,6 +173,7 @@
             this.Controls.Add(this.BuyButton);
             this.Controls.Add(this.GetPriceButton);
             this.Controls.Add(this.ShareName);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);

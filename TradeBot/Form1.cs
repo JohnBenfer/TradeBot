@@ -16,6 +16,7 @@ namespace TradeBot
         Stock AAPL = new Stock("AAPL");
         Stock F = new Stock("F");
         Stock BBY = new Stock("BBY");
+        Stock BTC = new Stock("BTC");
 
         public Form1()
         {
@@ -28,6 +29,7 @@ namespace TradeBot
             StockGrid.Rows.Add("AAPL", AAPL.ShareCount, AAPL.AvgBuyPrice, AAPL.AvgSellPrice);
             StockGrid.Rows.Add("F", F.ShareCount, F.AvgBuyPrice, F.AvgSellPrice);
             StockGrid.Rows.Add("BBY", BBY.ShareCount, BBY.AvgBuyPrice, BBY.AvgSellPrice);
+            StockGrid.Rows.Add("BTC", BTC.ShareCount, BTC.AvgBuyPrice, BTC.AvgSellPrice);
             RefreshStockGrid();
         }
 
@@ -54,6 +56,7 @@ namespace TradeBot
             StockGrid.Rows.Add("AAPL", AAPL.ShareCount, AAPL.AvgBuyPrice, AAPL.AvgSellPrice);
             StockGrid.Rows.Add("F", F.ShareCount, F.AvgBuyPrice, F.AvgSellPrice);
             StockGrid.Rows.Add("BBY", BBY.ShareCount, BBY.AvgBuyPrice, BBY.AvgSellPrice);
+            StockGrid.Rows.Add("BTC", BTC.ShareCount, BTC.AvgBuyPrice, BTC.AvgSellPrice);
         }
 
         private void GetPriceButton_Click(object sender, EventArgs e)
@@ -91,6 +94,9 @@ namespace TradeBot
                 case 2:
                     CurrentStock = BBY;
                     break;
+                case 3:
+                    CurrentStock = BTC;
+                    break;
                 default:
                     CurrentStock = AAPL;
                     break;
@@ -98,6 +104,11 @@ namespace TradeBot
             }
             Console.WriteLine("Stock switched to " + CurrentStock.Ticker);
             
+        }
+
+        private void StockGrid_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            //StockGrid.row
         }
     }
 }

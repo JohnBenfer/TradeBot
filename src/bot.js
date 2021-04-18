@@ -11,21 +11,24 @@ const IEX_KEY = secret.IEX_KEY;
 // transact.buy();
 // transact.sell();
 
-// start();
-test();
+console.clear();
+
+start();
+// test();
 
 async function test() {
   const ticker = (await askQuestion("Enter stock ticker: ")).toUpperCase().trim();
   let closeData = await loadData(ticker);
-  const resultsFile = "../data/" + ticker + "/" + ticker + "-Results.txt";
+  const resultsFile = "../data/" + ticker + "/" + ticker + "-Results.json";
+  const avgPrice = getAvgPrice(closeData);
   for(let stp = 1; stp < 30; stp++) {
     for(let ltp = 10; ltp < 150; ltp++) {
       const profit = runMovingAvg(closeData, stp, ltp);
-      if(profit && profit > 1) {
+      if(profit > 0) {
         results.push(
           {
-            ticker: ticker,
-            profit: profit,
+            profit: Math.ceil(profit * 100) / 100,
+            percent: `${Math.ceil((profit / avgPrice * 100) * 100) / 100}%`,
             stp: stp,
             ltp: ltp 
           }
@@ -34,8 +37,19 @@ async function test() {
     }
   }
   let sortedResults = orderResults(results);
-  sortedResults = filterResults(sortedResults, 0.005, getAvgPrice(closeData));
+  sortedResults = filterResults(sortedResults, 0.0001, avgPrice);
   recordData(resultsFile, sortedResults);
+}
+
+async function start() {
+  console.clear();
+  const t = (await askQuestion("Enter stock ticker: ")).toUpperCase().trim();
+  const shortTermPeriod = (await askQuestion("Enter short term period in minutes: ")).trim();
+  const longTermPeriod = (await askQuestion("Enter long term period in minutes: ")).trim();
+  closeData = await loadData(t);
+  console.log(t + " Close data:");
+  console.log(closeData);
+  runMovingAvg(closeData, shortTermPeriod, longTermPeriod);
 }
 
 function getAvgPrice(prices) {
@@ -68,17 +82,6 @@ function compare( a, b ) {
 
 function orderResults(results) {
   return results.sort(compare).reverse();
-}
-
-async function start() {
-  console.clear();
-  const t = (await askQuestion("Enter stock ticker: ")).toUpperCase().trim();
-  const shortTermPeriod = (await askQuestion("Enter short term period in minutes: ")).trim();
-  const longTermPeriod = (await askQuestion("Enter long term period in minutes: ")).trim();
-  closeData = await loadData(t);
-  console.log(t + " Close data:");
-  console.log(closeData);
-  runMovingAvg(closeData, shortTermPeriod, longTermPeriod);
 }
 
 function runMovingAvg(prices, stp, ltp) {

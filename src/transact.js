@@ -1,9 +1,9 @@
 const axios = require('axios').default;
 module.exports = {
-  sell: () => {
-    console.log("selling");
+  sell: (price) => {
+    console.log("selling at " + price);
   },
-  buy: () => {
-    console.log("buying");
+  buy: (price) => {
+    console.log("buying at " + price);
   }
 };

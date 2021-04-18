@@ -1,0 +1,698 @@
+[
+  {
+    "ticker": "AAPL",
+    "profit": 1.6699999999997317,
+    "stp": 22,
+    "ltp": 20
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.5800000000004957,
+    "stp": 21,
+    "ltp": 20
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.5600000000001728,
+    "stp": 21,
+    "ltp": 19
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.5450000000001296,
+    "stp": 26,
+    "ltp": 17
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.5099999999992235,
+    "stp": 23,
+    "ltp": 21
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.5049999999999386,
+    "stp": 23,
+    "ltp": 19
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.4849999999999568,
+    "stp": 26,
+    "ltp": 16
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.4600000000003206,
+    "stp": 22,
+    "ltp": 19
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.4600000000000932,
+    "stp": 26,
+    "ltp": 14
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.4350000000002296,
+    "stp": 27,
+    "ltp": 17
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.4299999999998931,
+    "stp": 25,
+    "ltp": 18
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.424999999999784,
+    "stp": 23,
+    "ltp": 18
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.4199999999999022,
+    "stp": 27,
+    "ltp": 13
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.4049999999995748,
+    "stp": 23,
+    "ltp": 20
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.3899999999998442,
+    "stp": 25,
+    "ltp": 14
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.3750000000000568,
+    "stp": 25,
+    "ltp": 17
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.3749999999998295,
+    "stp": 25,
+    "ltp": 19
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.370000000000175,
+    "stp": 26,
+    "ltp": 18
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.3699999999999477,
+    "stp": 26,
+    "ltp": 15
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.355000000000075,
+    "stp": 28,
+    "ltp": 16
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.3500000000001364,
+    "stp": 25,
+    "ltp": 10
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.3350000000002638,
+    "stp": 20,
+    "ltp": 11
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.3350000000000932,
+    "stp": 26,
+    "ltp": 19
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.3350000000000932,
+    "stp": 25,
+    "ltp": 16
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.3350000000000364,
+    "stp": 21,
+    "ltp": 10
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.3250000000003297,
+    "stp": 28,
+    "ltp": 17
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.3050000000001205,
+    "stp": 24,
+    "ltp": 20
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.3049999999998931,
+    "stp": 23,
+    "ltp": 17
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.3000000000002387,
+    "stp": 27,
+    "ltp": 18
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.300000000000182,
+    "stp": 24,
+    "ltp": 22
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.299999999999784,
+    "stp": 24,
+    "ltp": 16
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2949999999999022,
+    "stp": 27,
+    "ltp": 15
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2750000000003183,
+    "stp": 23,
+    "ltp": 10
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2750000000002046,
+    "stp": 27,
+    "ltp": 19
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2750000000001478,
+    "stp": 27,
+    "ltp": 14
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.275000000000091,
+    "stp": 22,
+    "ltp": 10
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2749999999999204,
+    "stp": 25,
+    "ltp": 15
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2700000000008913,
+    "stp": 23,
+    "ltp": 22
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2700000000004366,
+    "stp": 23,
+    "ltp": 11
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2700000000000387,
+    "stp": 27,
+    "ltp": 16
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2600000000000762,
+    "stp": 23,
+    "ltp": 14
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2549999999999955,
+    "stp": 28,
+    "ltp": 19
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.254999999999427,
+    "stp": 24,
+    "ltp": 21
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.250000000000199,
+    "stp": 25,
+    "ltp": 13
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2499999999997442,
+    "stp": 24,
+    "ltp": 15
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.245000000000175,
+    "stp": 29,
+    "ltp": 16
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2449999999997203,
+    "stp": 24,
+    "ltp": 17
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2399999999998386,
+    "stp": 27,
+    "ltp": 12
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2349999999999568,
+    "stp": 24,
+    "ltp": 19
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2349999999997294,
+    "stp": 24,
+    "ltp": 18
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2300000000001035,
+    "stp": 23,
+    "ltp": 13
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2299999999999613,
+    "stp": 18,
+    "ltp": 14
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2299999999999045,
+    "stp": 26,
+    "ltp": 20
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2250000000003638,
+    "stp": 26,
+    "ltp": 10
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2249999999997954,
+    "stp": 25,
+    "ltp": 20
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.220000000000482,
+    "stp": 24,
+    "ltp": 11
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2200000000002547,
+    "stp": 21,
+    "ltp": 12
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2200000000000273,
+    "stp": 21,
+    "ltp": 11
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.21999999999926,
+    "stp": 22,
+    "ltp": 21
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2100000000000932,
+    "stp": 28,
+    "ltp": 13
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2099999999999227,
+    "stp": 28,
+    "ltp": 18
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.2050000000002683,
+    "stp": 25,
+    "ltp": 21
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.200000000000017,
+    "stp": 24,
+    "ltp": 14
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1950000000002774,
+    "stp": 26,
+    "ltp": 21
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1950000000001353,
+    "stp": 21,
+    "ltp": 13
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.19500000000005,
+    "stp": 27,
+    "ltp": 20
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1949999999996805,
+    "stp": 26,
+    "ltp": 13
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1850000000000023,
+    "stp": 28,
+    "ltp": 14
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.175000000000182,
+    "stp": 11,
+    "ltp": 10
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1749999999997272,
+    "stp": 25,
+    "ltp": 22
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1700000000003001,
+    "stp": 18,
+    "ltp": 13
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1700000000000443,
+    "stp": 23,
+    "ltp": 16
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1600000000005082,
+    "stp": 17,
+    "ltp": 15
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1600000000000819,
+    "stp": 25,
+    "ltp": 11
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1599999999999113,
+    "stp": 29,
+    "ltp": 13
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1550000000000296,
+    "stp": 29,
+    "ltp": 15
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1549999999999727,
+    "stp": 26,
+    "ltp": 11
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1549999999999727,
+    "stp": 23,
+    "ltp": 12
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1500000000000625,
+    "stp": 18,
+    "ltp": 15
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1499999999999204,
+    "stp": 22,
+    "ltp": 18
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1499999999998352,
+    "stp": 22,
+    "ltp": 13
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1450000000002092,
+    "stp": 19,
+    "ltp": 13
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1449999999997544,
+    "stp": 18,
+    "ltp": 11
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1400000000010095,
+    "stp": 20,
+    "ltp": 19
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1250000000002274,
+    "stp": 17,
+    "ltp": 11
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.125,
+    "stp": 22,
+    "ltp": 11
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1249999999999716,
+    "stp": 17,
+    "ltp": 16
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1200000000003456,
+    "stp": 24,
+    "ltp": 10
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1149999999999807,
+    "stp": 21,
+    "ltp": 14
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.114999999999867,
+    "stp": 18,
+    "ltp": 17
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1099999999997578,
+    "stp": 18,
+    "ltp": 16
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.1049999999997624,
+    "stp": 23,
+    "ltp": 15
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.099999999999909,
+    "stp": 18,
+    "ltp": 12
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0900000000001455,
+    "stp": 20,
+    "ltp": 12
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0899999999996908,
+    "stp": 20,
+    "ltp": 10
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.085000000000349,
+    "stp": 22,
+    "ltp": 14
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0850000000000932,
+    "stp": 29,
+    "ltp": 14
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0800000000000978,
+    "stp": 27,
+    "ltp": 21
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0750000000000455,
+    "stp": 17,
+    "ltp": 10
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0749999999996476,
+    "stp": 21,
+    "ltp": 18
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0700000000000216,
+    "stp": 24,
+    "ltp": 13
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0600000000003718,
+    "stp": 22,
+    "ltp": 12
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0600000000000023,
+    "stp": 29,
+    "ltp": 12
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0550000000005184,
+    "stp": 27,
+    "ltp": 10
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0500000000004945,
+    "stp": 19,
+    "ltp": 16
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.050000000000125,
+    "stp": 29,
+    "ltp": 19
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0500000000000682,
+    "stp": 29,
+    "ltp": 17
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0499999999999545,
+    "stp": 17,
+    "ltp": 13
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0450000000000728,
+    "stp": 19,
+    "ltp": 11
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0449999999998454,
+    "stp": 26,
+    "ltp": 22
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0350000000003092,
+    "stp": 24,
+    "ltp": 23
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.035000000000025,
+    "stp": 28,
+    "ltp": 12
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0150000000001569,
+    "stp": 22,
+    "ltp": 17
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0100000000002183,
+    "stp": 18,
+    "ltp": 10
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.009999999999934,
+    "stp": 20,
+    "ltp": 13
+  },
+  {
+    "ticker": "AAPL",
+    "profit": 1.0049999999998533,
+    "stp": 26,
+    "ltp": 12
+  }
+]

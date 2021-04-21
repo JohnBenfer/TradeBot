@@ -6,6 +6,7 @@ const readline = require('readline');
 
 let closeData;
 let results = [];
+let TICKER;
 
 const IEX_KEY = secret.IEX_KEY;
 // transact.buy();
@@ -14,14 +15,20 @@ const IEX_KEY = secret.IEX_KEY;
 console.clear();
 
 start();
-// test();
+
+async function start() {
+  console.clear();
+  TICKER = (await askQuestion("Enter stock ticker: ")).toUpperCase().trim();
+  // test();
+// test1y();
+  test5y();
+}
 
 async function test() {
-  const ticker = (await askQuestion("Enter stock ticker: ")).toUpperCase().trim();
-  let closeData = await loadData(ticker);
-  const resultsFile = "../data/" + ticker + "/" + ticker + "-Results.json";
+  let closeData = await loadIntraDayData(TICKER);
+  const resultsFile = "../data/" + TICKER + "/" + TICKER + "-Results.json";
   const avgPrice = getAvgPrice(closeData);
-  for(let stp = 1; stp < 30; stp++) {
+  for(let stp = 1; stp < 50; stp++) {
     for(let ltp = 10; ltp < 150; ltp++) {
       const profit = runMovingAvg(closeData, stp, ltp);
       if(profit > 0) {
@@ -37,19 +44,76 @@ async function test() {
     }
   }
   let sortedResults = orderResults(results);
-  sortedResults = filterResults(sortedResults, 0.0001, avgPrice);
+  sortedResults = filterResults(sortedResults, 0.005, avgPrice);
   recordData(resultsFile, sortedResults);
+  analyzeSingleStock(sortedResults);
 }
 
-async function start() {
-  console.clear();
-  const t = (await askQuestion("Enter stock ticker: ")).toUpperCase().trim();
-  const shortTermPeriod = (await askQuestion("Enter short term period in minutes: ")).trim();
-  const longTermPeriod = (await askQuestion("Enter long term period in minutes: ")).trim();
-  closeData = await loadData(t);
-  console.log(t + " Close data:");
-  console.log(closeData);
-  runMovingAvg(closeData, shortTermPeriod, longTermPeriod);
+async function test1y() {
+  let closeData = await load1YData(TICKER);
+  const resultsFile = "../data/" + TICKER + "/" + TICKER + "-1Y-Results.json";
+  const avgPrice = getAvgPrice(closeData);
+  for(let stp = 1; stp < 100; stp++) {
+    for(let ltp = 10; ltp < 100; ltp++) {
+      const profit = runMovingAvg(closeData, stp, ltp);
+      if(profit > 0) {
+        results.push(
+          {
+            profit: Math.ceil(profit * 100) / 100,
+            percent: `${Math.ceil((profit / avgPrice * 100) * 100) / 100}%`,
+            stp: stp,
+            ltp: ltp 
+          }
+        );
+      }
+    }
+  }
+  let sortedResults = orderResults(results);
+  sortedResults = filterResults(sortedResults, 0.005, avgPrice);
+  recordData(resultsFile, sortedResults);
+  analyzeSingleStock(sortedResults);
+}
+
+async function test5y() {
+  let closeData = await load5YData(TICKER);
+  const resultsFile = "../data/" + TICKER + "/" + TICKER + "-5Y-Results.json";
+  const avgPrice = getAvgPrice(closeData);
+  for(let stp = 10; stp < 100; stp++) {
+    for(let ltp = 20; ltp < 300; ltp++) {
+      const profit = runMovingAvg(closeData, stp, ltp);
+      if(profit > 0) {
+        results.push(
+          {
+            profit: Math.ceil(profit * 100) / 100,
+            percent: `${Math.ceil((profit / avgPrice * 100) * 100) / 100}%`,
+            stp: stp,
+            ltp: ltp 
+          }
+        );
+      }
+    }
+  }
+  let sortedResults = orderResults(results);
+  sortedResults = filterResults(sortedResults, 0.005, avgPrice);
+  recordData(resultsFile, sortedResults);
+  analyzeSingleStock(sortedResults);
+}
+
+function analyzeSingleStock(data) {
+  let totalLongStpProfits = 0;
+  let totalLongLtpProfits = 0;
+  let total = 0;
+  data.forEach((dataPoint, i) => {
+    if(dataPoint.ltp > dataPoint.stp) {
+      totalLongLtpProfits++;
+    } else {
+      totalLongStpProfits++;
+    }
+    total += dataPoint.profit;
+  });
+  console.log("Average profit: " + Math.ceil(total/data.length*100) / 100);
+  console.log("Profits with longer LTP: " + totalLongLtpProfits);
+  console.log("Profits with longer STP: " + totalLongStpProfits);
 }
 
 function getAvgPrice(prices) {
@@ -67,7 +131,7 @@ function filterResults(results, threshold, avgPrice) {
       filteredResults.push(result);
     }
   });
-  return filteredResults;
+  return filteredResults.slice(0, 500);
 }
 
 function compare( a, b ) {
@@ -111,7 +175,7 @@ function runMovingAvg(prices, stp, ltp) {
     } else {
 
       if (staHigh) {
-        transact.sell(prices[i]);
+        transact.sell(TICKER, prices[i]);
         if (prices[i]) {
           sell += prices[i];
           sellCount++;
@@ -123,12 +187,12 @@ function runMovingAvg(prices, stp, ltp) {
   }
 
   if (spendCount === sellCount) {
-    console.log("Profit: $" + (sell - spend).toString());
+    // console.log("Profit: $" + (sell - spend).toString());
     return sell - spend;
   } else if (spendCount === sellCount + 1) {
-    console.log("spendCount: " + spendCount);
-    console.log("sellCount: " + sellCount);
-    console.log("profit: $" + (sell - spend + lastBuy).toString());
+    // console.log("spendCount: " + spendCount);
+    // console.log("sellCount: " + sellCount);
+    // console.log("profit: $" + (sell - spend + lastBuy).toString());
     return sell - spend + lastBuy;
   }
 
@@ -157,13 +221,7 @@ function askQuestion(query) {
 }
 
 
-
-
-function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
-}
-
-async function loadData(ticker) {
+async function loadIntraDayData(ticker) {
   const dirPath = "../data/" + ticker;
   const filePath = dirPath + "/" + ticker + "-Close.txt";
   let closeData;
@@ -175,7 +233,7 @@ async function loadData(ticker) {
     file = JSON.parse(file);
     return file;
   } catch (e) {
-    console.log("file does not exit: " + e);
+    console.log("No cached data");
   }
   console.log("Fetching data...");
   await axios.get(
@@ -184,6 +242,66 @@ async function loadData(ticker) {
                   "/intraday-prices?token=" +
                   IEX_KEY +
                   "&chartLast=480").
+    then((response) => {
+      closeData = loadClose(response.data);
+      recordData(filePath, closeData);
+      console.log("Done.");
+    }).catch((e) => {
+      console.warn("Failed to load data" + e);
+    });
+  return closeData;
+}
+
+async function load1YData(ticker) {
+  const dirPath = "../data/" + ticker;
+  const filePath = dirPath + "/" + ticker + "-1Y.txt";
+  let closeData;
+ 
+  verifyDir(dirPath);
+
+  try {
+    let file = fs.readFileSync(filePath, "utf8");
+    file = JSON.parse(file);
+    return file;
+  } catch (e) {
+    console.log("No cached data");
+  }
+  console.log("Fetching data...");
+  await axios.get(
+                  "https://cloud.iexapis.com/stable/stock/" +
+                  ticker +
+                  "/chart/1y?token=" +
+                  IEX_KEY).
+    then((response) => {
+      closeData = loadClose(response.data);
+      recordData(filePath, closeData);
+      console.log("Done.");
+    }).catch((e) => {
+      console.warn("Failed to load data" + e);
+    });
+  return closeData;
+}
+
+async function load5YData(ticker) {
+  const dirPath = "../data/" + ticker;
+  const filePath = dirPath + "/" + ticker + "-5Y.txt";
+  let closeData;
+ 
+  verifyDir(dirPath);
+
+  try {
+    let file = fs.readFileSync(filePath, "utf8");
+    file = JSON.parse(file);
+    return file;
+  } catch (e) {
+    console.log("No cached data");
+  }
+  console.log("Fetching data...");
+  await axios.get(
+                  "https://cloud.iexapis.com/stable/stock/" +
+                  ticker +
+                  "/chart/5y?token=" +
+                  IEX_KEY).
     then((response) => {
       closeData = loadClose(response.data);
       recordData(filePath, closeData);

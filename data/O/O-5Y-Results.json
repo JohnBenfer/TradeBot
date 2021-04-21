@@ -1,0 +1,3002 @@
+[
+  {
+    "profit": 42.03,
+    "percent": "67.79%",
+    "stp": 58,
+    "ltp": 25
+  },
+  {
+    "profit": 40.53,
+    "percent": "65.37%",
+    "stp": 59,
+    "ltp": 25
+  },
+  {
+    "profit": 39.86,
+    "percent": "64.29%",
+    "stp": 62,
+    "ltp": 24
+  },
+  {
+    "profit": 39.38,
+    "percent": "63.5%",
+    "stp": 58,
+    "ltp": 24
+  },
+  {
+    "profit": 39.21,
+    "percent": "63.22%",
+    "stp": 58,
+    "ltp": 26
+  },
+  {
+    "profit": 38.85,
+    "percent": "62.66%",
+    "stp": 61,
+    "ltp": 25
+  },
+  {
+    "profit": 38.25,
+    "percent": "61.68%",
+    "stp": 57,
+    "ltp": 25
+  },
+  {
+    "profit": 38.22,
+    "percent": "61.64%",
+    "stp": 60,
+    "ltp": 25
+  },
+  {
+    "profit": 37.49,
+    "percent": "60.47%",
+    "stp": 67,
+    "ltp": 22
+  },
+  {
+    "profit": 37.37,
+    "percent": "60.27%",
+    "stp": 60,
+    "ltp": 38
+  },
+  {
+    "profit": 37.29,
+    "percent": "60.14%",
+    "stp": 60,
+    "ltp": 26
+  },
+  {
+    "profit": 37,
+    "percent": "59.66%",
+    "stp": 59,
+    "ltp": 24
+  },
+  {
+    "profit": 36.82,
+    "percent": "59.37%",
+    "stp": 60,
+    "ltp": 39
+  },
+  {
+    "profit": 36.68,
+    "percent": "59.16%",
+    "stp": 71,
+    "ltp": 25
+  },
+  {
+    "profit": 36.59,
+    "percent": "59.01%",
+    "stp": 61,
+    "ltp": 38
+  },
+  {
+    "profit": 36.56,
+    "percent": "58.97%",
+    "stp": 59,
+    "ltp": 26
+  },
+  {
+    "profit": 36.55,
+    "percent": "58.93%",
+    "stp": 59,
+    "ltp": 40
+  },
+  {
+    "profit": 36.44,
+    "percent": "58.77%",
+    "stp": 62,
+    "ltp": 25
+  },
+  {
+    "profit": 36.42,
+    "percent": "58.72%",
+    "stp": 61,
+    "ltp": 37
+  },
+  {
+    "profit": 36.31,
+    "percent": "58.56%",
+    "stp": 63,
+    "ltp": 25
+  },
+  {
+    "profit": 36.22,
+    "percent": "58.42%",
+    "stp": 64,
+    "ltp": 23
+  },
+  {
+    "profit": 36.11,
+    "percent": "58.22%",
+    "stp": 56,
+    "ltp": 25
+  },
+  {
+    "profit": 36.03,
+    "percent": "58.11%",
+    "stp": 54,
+    "ltp": 41
+  },
+  {
+    "profit": 35.98,
+    "percent": "58.01%",
+    "stp": 65,
+    "ltp": 23
+  },
+  {
+    "profit": 35.98,
+    "percent": "58.01%",
+    "stp": 56,
+    "ltp": 26
+  },
+  {
+    "profit": 35.9,
+    "percent": "57.9%",
+    "stp": 63,
+    "ltp": 24
+  },
+  {
+    "profit": 35.83,
+    "percent": "57.79%",
+    "stp": 53,
+    "ltp": 42
+  },
+  {
+    "profit": 35.77,
+    "percent": "57.69%",
+    "stp": 56,
+    "ltp": 40
+  },
+  {
+    "profit": 35.75,
+    "percent": "57.66%",
+    "stp": 60,
+    "ltp": 42
+  },
+  {
+    "profit": 35.71,
+    "percent": "57.59%",
+    "stp": 63,
+    "ltp": 21
+  },
+  {
+    "profit": 35.7,
+    "percent": "57.56%",
+    "stp": 38,
+    "ltp": 32
+  },
+  {
+    "profit": 35.54,
+    "percent": "57.32%",
+    "stp": 63,
+    "ltp": 22
+  },
+  {
+    "profit": 35.53,
+    "percent": "57.3%",
+    "stp": 67,
+    "ltp": 23
+  },
+  {
+    "profit": 35.52,
+    "percent": "57.29%",
+    "stp": 75,
+    "ltp": 25
+  },
+  {
+    "profit": 35.47,
+    "percent": "57.19%",
+    "stp": 59,
+    "ltp": 23
+  },
+  {
+    "profit": 35.34,
+    "percent": "57%",
+    "stp": 70,
+    "ltp": 24
+  },
+  {
+    "profit": 35.29,
+    "percent": "56.92%",
+    "stp": 64,
+    "ltp": 21
+  },
+  {
+    "profit": 35.28,
+    "percent": "56.9%",
+    "stp": 76,
+    "ltp": 25
+  },
+  {
+    "profit": 35.27,
+    "percent": "56.87%",
+    "stp": 50,
+    "ltp": 29
+  },
+  {
+    "profit": 35.26,
+    "percent": "56.87%",
+    "stp": 62,
+    "ltp": 21
+  },
+  {
+    "profit": 35.24,
+    "percent": "56.84%",
+    "stp": 33,
+    "ltp": 32
+  },
+  {
+    "profit": 35.17,
+    "percent": "56.72%",
+    "stp": 54,
+    "ltp": 42
+  },
+  {
+    "profit": 35.14,
+    "percent": "56.68%",
+    "stp": 61,
+    "ltp": 22
+  },
+  {
+    "profit": 35.1,
+    "percent": "56.61%",
+    "stp": 70,
+    "ltp": 25
+  },
+  {
+    "profit": 35.09,
+    "percent": "56.59%",
+    "stp": 98,
+    "ltp": 30
+  },
+  {
+    "profit": 35.07,
+    "percent": "56.55%",
+    "stp": 56,
+    "ltp": 27
+  },
+  {
+    "profit": 35.03,
+    "percent": "56.5%",
+    "stp": 51,
+    "ltp": 28
+  },
+  {
+    "profit": 35.01,
+    "percent": "56.47%",
+    "stp": 61,
+    "ltp": 26
+  },
+  {
+    "profit": 34.98,
+    "percent": "56.42%",
+    "stp": 62,
+    "ltp": 41
+  },
+  {
+    "profit": 34.95,
+    "percent": "56.37%",
+    "stp": 57,
+    "ltp": 27
+  },
+  {
+    "profit": 34.88,
+    "percent": "56.26%",
+    "stp": 74,
+    "ltp": 25
+  },
+  {
+    "profit": 34.88,
+    "percent": "56.24%",
+    "stp": 51,
+    "ltp": 30
+  },
+  {
+    "profit": 34.88,
+    "percent": "56.24%",
+    "stp": 36,
+    "ltp": 32
+  },
+  {
+    "profit": 34.81,
+    "percent": "56.14%",
+    "stp": 62,
+    "ltp": 38
+  },
+  {
+    "profit": 34.81,
+    "percent": "56.13%",
+    "stp": 61,
+    "ltp": 24
+  },
+  {
+    "profit": 34.79,
+    "percent": "56.1%",
+    "stp": 57,
+    "ltp": 24
+  },
+  {
+    "profit": 34.75,
+    "percent": "56.03%",
+    "stp": 55,
+    "ltp": 26
+  },
+  {
+    "profit": 34.64,
+    "percent": "55.87%",
+    "stp": 50,
+    "ltp": 28
+  },
+  {
+    "profit": 34.63,
+    "percent": "55.84%",
+    "stp": 58,
+    "ltp": 43
+  },
+  {
+    "profit": 34.59,
+    "percent": "55.79%",
+    "stp": 96,
+    "ltp": 30
+  },
+  {
+    "profit": 34.59,
+    "percent": "55.79%",
+    "stp": 57,
+    "ltp": 26
+  },
+  {
+    "profit": 34.56,
+    "percent": "55.74%",
+    "stp": 73,
+    "ltp": 21
+  },
+  {
+    "profit": 34.56,
+    "percent": "55.74%",
+    "stp": 58,
+    "ltp": 42
+  },
+  {
+    "profit": 34.53,
+    "percent": "55.69%",
+    "stp": 77,
+    "ltp": 21
+  },
+  {
+    "profit": 34.47,
+    "percent": "55.6%",
+    "stp": 97,
+    "ltp": 31
+  },
+  {
+    "profit": 34.46,
+    "percent": "55.58%",
+    "stp": 62,
+    "ltp": 22
+  },
+  {
+    "profit": 34.46,
+    "percent": "55.58%",
+    "stp": 55,
+    "ltp": 41
+  },
+  {
+    "profit": 34.44,
+    "percent": "55.55%",
+    "stp": 58,
+    "ltp": 40
+  },
+  {
+    "profit": 34.42,
+    "percent": "55.51%",
+    "stp": 75,
+    "ltp": 21
+  },
+  {
+    "profit": 34.42,
+    "percent": "55.51%",
+    "stp": 61,
+    "ltp": 21
+  },
+  {
+    "profit": 34.4,
+    "percent": "55.47%",
+    "stp": 80,
+    "ltp": 24
+  },
+  {
+    "profit": 34.37,
+    "percent": "55.43%",
+    "stp": 64,
+    "ltp": 22
+  },
+  {
+    "profit": 34.26,
+    "percent": "55.26%",
+    "stp": 79,
+    "ltp": 25
+  },
+  {
+    "profit": 34.24,
+    "percent": "55.21%",
+    "stp": 55,
+    "ltp": 25
+  },
+  {
+    "profit": 34.23,
+    "percent": "55.21%",
+    "stp": 66,
+    "ltp": 23
+  },
+  {
+    "profit": 34.23,
+    "percent": "55.19%",
+    "stp": 62,
+    "ltp": 23
+  },
+  {
+    "profit": 34.2,
+    "percent": "55.16%",
+    "stp": 78,
+    "ltp": 21
+  },
+  {
+    "profit": 34.16,
+    "percent": "55.1%",
+    "stp": 97,
+    "ltp": 30
+  },
+  {
+    "profit": 34.16,
+    "percent": "55.1%",
+    "stp": 64,
+    "ltp": 24
+  },
+  {
+    "profit": 34.1,
+    "percent": "54.98%",
+    "stp": 60,
+    "ltp": 40
+  },
+  {
+    "profit": 34.04,
+    "percent": "54.9%",
+    "stp": 65,
+    "ltp": 21
+  },
+  {
+    "profit": 33.97,
+    "percent": "54.79%",
+    "stp": 58,
+    "ltp": 27
+  },
+  {
+    "profit": 33.86,
+    "percent": "54.6%",
+    "stp": 59,
+    "ltp": 42
+  },
+  {
+    "profit": 33.84,
+    "percent": "54.56%",
+    "stp": 80,
+    "ltp": 23
+  },
+  {
+    "profit": 33.82,
+    "percent": "54.53%",
+    "stp": 56,
+    "ltp": 24
+  },
+  {
+    "profit": 33.79,
+    "percent": "54.5%",
+    "stp": 66,
+    "ltp": 24
+  },
+  {
+    "profit": 33.76,
+    "percent": "54.45%",
+    "stp": 64,
+    "ltp": 25
+  },
+  {
+    "profit": 33.72,
+    "percent": "54.37%",
+    "stp": 60,
+    "ltp": 24
+  },
+  {
+    "profit": 33.72,
+    "percent": "54.39%",
+    "stp": 57,
+    "ltp": 41
+  },
+  {
+    "profit": 33.65,
+    "percent": "54.26%",
+    "stp": 99,
+    "ltp": 30
+  },
+  {
+    "profit": 33.64,
+    "percent": "54.26%",
+    "stp": 76,
+    "ltp": 22
+  },
+  {
+    "profit": 33.61,
+    "percent": "54.19%",
+    "stp": 78,
+    "ltp": 25
+  },
+  {
+    "profit": 33.61,
+    "percent": "54.19%",
+    "stp": 58,
+    "ltp": 39
+  },
+  {
+    "profit": 33.5,
+    "percent": "54.03%",
+    "stp": 76,
+    "ltp": 21
+  },
+  {
+    "profit": 33.5,
+    "percent": "54.03%",
+    "stp": 61,
+    "ltp": 39
+  },
+  {
+    "profit": 33.46,
+    "percent": "53.97%",
+    "stp": 57,
+    "ltp": 42
+  },
+  {
+    "profit": 33.44,
+    "percent": "53.93%",
+    "stp": 74,
+    "ltp": 21
+  },
+  {
+    "profit": 33.43,
+    "percent": "53.92%",
+    "stp": 51,
+    "ltp": 31
+  },
+  {
+    "profit": 33.4,
+    "percent": "53.87%",
+    "stp": 77,
+    "ltp": 25
+  },
+  {
+    "profit": 33.38,
+    "percent": "53.84%",
+    "stp": 99,
+    "ltp": 29
+  },
+  {
+    "profit": 33.36,
+    "percent": "53.79%",
+    "stp": 53,
+    "ltp": 27
+  },
+  {
+    "profit": 33.31,
+    "percent": "53.72%",
+    "stp": 63,
+    "ltp": 23
+  },
+  {
+    "profit": 33.3,
+    "percent": "53.71%",
+    "stp": 60,
+    "ltp": 22
+  },
+  {
+    "profit": 33.25,
+    "percent": "53.63%",
+    "stp": 60,
+    "ltp": 41
+  },
+  {
+    "profit": 33.23,
+    "percent": "53.6%",
+    "stp": 81,
+    "ltp": 22
+  },
+  {
+    "profit": 33.23,
+    "percent": "53.58%",
+    "stp": 65,
+    "ltp": 22
+  },
+  {
+    "profit": 33.22,
+    "percent": "53.56%",
+    "stp": 71,
+    "ltp": 24
+  },
+  {
+    "profit": 33.2,
+    "percent": "53.55%",
+    "stp": 61,
+    "ltp": 32
+  },
+  {
+    "profit": 33.2,
+    "percent": "53.53%",
+    "stp": 59,
+    "ltp": 39
+  },
+  {
+    "profit": 33.19,
+    "percent": "53.53%",
+    "stp": 77,
+    "ltp": 24
+  },
+  {
+    "profit": 33.18,
+    "percent": "53.51%",
+    "stp": 75,
+    "ltp": 22
+  },
+  {
+    "profit": 33.1,
+    "percent": "53.39%",
+    "stp": 56,
+    "ltp": 41
+  },
+  {
+    "profit": 33.09,
+    "percent": "53.35%",
+    "stp": 98,
+    "ltp": 29
+  },
+  {
+    "profit": 33.01,
+    "percent": "53.24%",
+    "stp": 57,
+    "ltp": 40
+  },
+  {
+    "profit": 32.97,
+    "percent": "53.16%",
+    "stp": 72,
+    "ltp": 25
+  },
+  {
+    "profit": 32.94,
+    "percent": "53.13%",
+    "stp": 52,
+    "ltp": 27
+  },
+  {
+    "profit": 32.88,
+    "percent": "53.03%",
+    "stp": 53,
+    "ltp": 43
+  },
+  {
+    "profit": 32.86,
+    "percent": "52.98%",
+    "stp": 39,
+    "ltp": 32
+  },
+  {
+    "profit": 32.8,
+    "percent": "52.9%",
+    "stp": 80,
+    "ltp": 22
+  },
+  {
+    "profit": 32.79,
+    "percent": "52.89%",
+    "stp": 84,
+    "ltp": 26
+  },
+  {
+    "profit": 32.75,
+    "percent": "52.81%",
+    "stp": 52,
+    "ltp": 28
+  },
+  {
+    "profit": 32.72,
+    "percent": "52.77%",
+    "stp": 79,
+    "ltp": 22
+  },
+  {
+    "profit": 32.71,
+    "percent": "52.74%",
+    "stp": 74,
+    "ltp": 23
+  },
+  {
+    "profit": 32.7,
+    "percent": "52.72%",
+    "stp": 67,
+    "ltp": 24
+  },
+  {
+    "profit": 32.7,
+    "percent": "52.72%",
+    "stp": 60,
+    "ltp": 33
+  },
+  {
+    "profit": 32.7,
+    "percent": "52.72%",
+    "stp": 52,
+    "ltp": 26
+  },
+  {
+    "profit": 32.67,
+    "percent": "52.68%",
+    "stp": 53,
+    "ltp": 26
+  },
+  {
+    "profit": 32.63,
+    "percent": "52.63%",
+    "stp": 85,
+    "ltp": 26
+  },
+  {
+    "profit": 32.63,
+    "percent": "52.61%",
+    "stp": 66,
+    "ltp": 21
+  },
+  {
+    "profit": 32.62,
+    "percent": "52.61%",
+    "stp": 57,
+    "ltp": 43
+  },
+  {
+    "profit": 32.62,
+    "percent": "52.61%",
+    "stp": 55,
+    "ltp": 43
+  },
+  {
+    "profit": 32.61,
+    "percent": "52.58%",
+    "stp": 55,
+    "ltp": 27
+  },
+  {
+    "profit": 32.6,
+    "percent": "52.56%",
+    "stp": 58,
+    "ltp": 41
+  },
+  {
+    "profit": 32.59,
+    "percent": "52.55%",
+    "stp": 65,
+    "ltp": 24
+  },
+  {
+    "profit": 32.56,
+    "percent": "52.51%",
+    "stp": 79,
+    "ltp": 23
+  },
+  {
+    "profit": 32.54,
+    "percent": "52.47%",
+    "stp": 60,
+    "ltp": 37
+  },
+  {
+    "profit": 32.53,
+    "percent": "52.45%",
+    "stp": 52,
+    "ltp": 30
+  },
+  {
+    "profit": 32.5,
+    "percent": "52.42%",
+    "stp": 99,
+    "ltp": 31
+  },
+  {
+    "profit": 32.5,
+    "percent": "52.4%",
+    "stp": 81,
+    "ltp": 23
+  },
+  {
+    "profit": 32.5,
+    "percent": "52.4%",
+    "stp": 50,
+    "ltp": 43
+  },
+  {
+    "profit": 32.49,
+    "percent": "52.39%",
+    "stp": 66,
+    "ltp": 22
+  },
+  {
+    "profit": 32.46,
+    "percent": "52.35%",
+    "stp": 56,
+    "ltp": 43
+  },
+  {
+    "profit": 32.43,
+    "percent": "52.29%",
+    "stp": 99,
+    "ltp": 28
+  },
+  {
+    "profit": 32.4,
+    "percent": "52.26%",
+    "stp": 54,
+    "ltp": 27
+  },
+  {
+    "profit": 32.39,
+    "percent": "52.24%",
+    "stp": 49,
+    "ltp": 43
+  },
+  {
+    "profit": 32.36,
+    "percent": "52.18%",
+    "stp": 76,
+    "ltp": 24
+  },
+  {
+    "profit": 32.34,
+    "percent": "52.14%",
+    "stp": 97,
+    "ltp": 29
+  },
+  {
+    "profit": 32.32,
+    "percent": "52.11%",
+    "stp": 76,
+    "ltp": 23
+  },
+  {
+    "profit": 32.32,
+    "percent": "52.13%",
+    "stp": 54,
+    "ltp": 26
+  },
+  {
+    "profit": 32.3,
+    "percent": "52.1%",
+    "stp": 37,
+    "ltp": 32
+  },
+  {
+    "profit": 32.25,
+    "percent": "52%",
+    "stp": 99,
+    "ltp": 32
+  },
+  {
+    "profit": 32.24,
+    "percent": "51.98%",
+    "stp": 79,
+    "ltp": 24
+  },
+  {
+    "profit": 32.23,
+    "percent": "51.97%",
+    "stp": 72,
+    "ltp": 22
+  },
+  {
+    "profit": 32.18,
+    "percent": "51.9%",
+    "stp": 80,
+    "ltp": 25
+  },
+  {
+    "profit": 32.16,
+    "percent": "51.87%",
+    "stp": 78,
+    "ltp": 24
+  },
+  {
+    "profit": 32.15,
+    "percent": "51.85%",
+    "stp": 68,
+    "ltp": 22
+  },
+  {
+    "profit": 32.14,
+    "percent": "51.84%",
+    "stp": 51,
+    "ltp": 29
+  },
+  {
+    "profit": 32.09,
+    "percent": "51.74%",
+    "stp": 96,
+    "ltp": 29
+  },
+  {
+    "profit": 32.06,
+    "percent": "51.71%",
+    "stp": 80,
+    "ltp": 21
+  },
+  {
+    "profit": 32.06,
+    "percent": "51.71%",
+    "stp": 77,
+    "ltp": 22
+  },
+  {
+    "profit": 32.05,
+    "percent": "51.69%",
+    "stp": 61,
+    "ltp": 33
+  },
+  {
+    "profit": 32,
+    "percent": "51.6%",
+    "stp": 72,
+    "ltp": 23
+  },
+  {
+    "profit": 31.99,
+    "percent": "51.6%",
+    "stp": 56,
+    "ltp": 42
+  },
+  {
+    "profit": 31.93,
+    "percent": "51.5%",
+    "stp": 49,
+    "ltp": 28
+  },
+  {
+    "profit": 31.91,
+    "percent": "51.45%",
+    "stp": 65,
+    "ltp": 25
+  },
+  {
+    "profit": 31.89,
+    "percent": "51.42%",
+    "stp": 59,
+    "ltp": 22
+  },
+  {
+    "profit": 31.88,
+    "percent": "51.42%",
+    "stp": 62,
+    "ltp": 37
+  },
+  {
+    "profit": 31.8,
+    "percent": "51.29%",
+    "stp": 61,
+    "ltp": 41
+  },
+  {
+    "profit": 31.79,
+    "percent": "51.26%",
+    "stp": 51,
+    "ltp": 27
+  },
+  {
+    "profit": 31.77,
+    "percent": "51.24%",
+    "stp": 98,
+    "ltp": 31
+  },
+  {
+    "profit": 31.77,
+    "percent": "51.24%",
+    "stp": 37,
+    "ltp": 31
+  },
+  {
+    "profit": 31.76,
+    "percent": "51.22%",
+    "stp": 75,
+    "ltp": 23
+  },
+  {
+    "profit": 31.76,
+    "percent": "51.22%",
+    "stp": 62,
+    "ltp": 40
+  },
+  {
+    "profit": 31.75,
+    "percent": "51.19%",
+    "stp": 43,
+    "ltp": 36
+  },
+  {
+    "profit": 31.73,
+    "percent": "51.18%",
+    "stp": 75,
+    "ltp": 24
+  },
+  {
+    "profit": 31.72,
+    "percent": "51.16%",
+    "stp": 55,
+    "ltp": 42
+  },
+  {
+    "profit": 31.62,
+    "percent": "51%",
+    "stp": 72,
+    "ltp": 21
+  },
+  {
+    "profit": 31.61,
+    "percent": "50.97%",
+    "stp": 60,
+    "ltp": 36
+  },
+  {
+    "profit": 31.53,
+    "percent": "50.85%",
+    "stp": 74,
+    "ltp": 24
+  },
+  {
+    "profit": 31.53,
+    "percent": "50.85%",
+    "stp": 63,
+    "ltp": 39
+  },
+  {
+    "profit": 31.51,
+    "percent": "50.82%",
+    "stp": 73,
+    "ltp": 24
+  },
+  {
+    "profit": 31.48,
+    "percent": "50.76%",
+    "stp": 57,
+    "ltp": 23
+  },
+  {
+    "profit": 31.47,
+    "percent": "50.74%",
+    "stp": 82,
+    "ltp": 22
+  },
+  {
+    "profit": 31.47,
+    "percent": "50.74%",
+    "stp": 67,
+    "ltp": 39
+  },
+  {
+    "profit": 31.45,
+    "percent": "50.72%",
+    "stp": 62,
+    "ltp": 39
+  },
+  {
+    "profit": 31.43,
+    "percent": "50.69%",
+    "stp": 63,
+    "ltp": 38
+  },
+  {
+    "profit": 31.41,
+    "percent": "50.64%",
+    "stp": 61,
+    "ltp": 23
+  },
+  {
+    "profit": 31.41,
+    "percent": "50.64%",
+    "stp": 54,
+    "ltp": 28
+  },
+  {
+    "profit": 31.4,
+    "percent": "50.63%",
+    "stp": 74,
+    "ltp": 22
+  },
+  {
+    "profit": 31.32,
+    "percent": "50.5%",
+    "stp": 60,
+    "ltp": 35
+  },
+  {
+    "profit": 31.32,
+    "percent": "50.52%",
+    "stp": 38,
+    "ltp": 37
+  },
+  {
+    "profit": 31.28,
+    "percent": "50.45%",
+    "stp": 79,
+    "ltp": 21
+  },
+  {
+    "profit": 31.21,
+    "percent": "50.32%",
+    "stp": 66,
+    "ltp": 31
+  },
+  {
+    "profit": 31.18,
+    "percent": "50.29%",
+    "stp": 59,
+    "ltp": 41
+  },
+  {
+    "profit": 31.14,
+    "percent": "50.22%",
+    "stp": 81,
+    "ltp": 21
+  },
+  {
+    "profit": 31.08,
+    "percent": "50.13%",
+    "stp": 41,
+    "ltp": 36
+  },
+  {
+    "profit": 31.04,
+    "percent": "50.05%",
+    "stp": 47,
+    "ltp": 29
+  },
+  {
+    "profit": 31.01,
+    "percent": "50.02%",
+    "stp": 56,
+    "ltp": 28
+  },
+  {
+    "profit": 30.97,
+    "percent": "49.95%",
+    "stp": 68,
+    "ltp": 25
+  },
+  {
+    "profit": 30.96,
+    "percent": "49.92%",
+    "stp": 73,
+    "ltp": 23
+  },
+  {
+    "profit": 30.95,
+    "percent": "49.92%",
+    "stp": 62,
+    "ltp": 33
+  },
+  {
+    "profit": 30.91,
+    "percent": "49.85%",
+    "stp": 71,
+    "ltp": 23
+  },
+  {
+    "profit": 30.88,
+    "percent": "49.81%",
+    "stp": 78,
+    "ltp": 22
+  },
+  {
+    "profit": 30.87,
+    "percent": "49.77%",
+    "stp": 72,
+    "ltp": 24
+  },
+  {
+    "profit": 30.86,
+    "percent": "49.77%",
+    "stp": 59,
+    "ltp": 38
+  },
+  {
+    "profit": 30.85,
+    "percent": "49.74%",
+    "stp": 60,
+    "ltp": 23
+  },
+  {
+    "profit": 30.77,
+    "percent": "49.63%",
+    "stp": 55,
+    "ltp": 44
+  },
+  {
+    "profit": 30.76,
+    "percent": "49.6%",
+    "stp": 98,
+    "ltp": 28
+  },
+  {
+    "profit": 30.76,
+    "percent": "49.6%",
+    "stp": 52,
+    "ltp": 29
+  },
+  {
+    "profit": 30.74,
+    "percent": "49.58%",
+    "stp": 83,
+    "ltp": 26
+  },
+  {
+    "profit": 30.73,
+    "percent": "49.55%",
+    "stp": 85,
+    "ltp": 25
+  },
+  {
+    "profit": 30.71,
+    "percent": "49.52%",
+    "stp": 62,
+    "ltp": 31
+  },
+  {
+    "profit": 30.7,
+    "percent": "49.5%",
+    "stp": 49,
+    "ltp": 29
+  },
+  {
+    "profit": 30.67,
+    "percent": "49.45%",
+    "stp": 97,
+    "ltp": 28
+  },
+  {
+    "profit": 30.63,
+    "percent": "49.39%",
+    "stp": 61,
+    "ltp": 40
+  },
+  {
+    "profit": 30.58,
+    "percent": "49.31%",
+    "stp": 46,
+    "ltp": 30
+  },
+  {
+    "profit": 30.53,
+    "percent": "49.24%",
+    "stp": 73,
+    "ltp": 25
+  },
+  {
+    "profit": 30.5,
+    "percent": "49.18%",
+    "stp": 81,
+    "ltp": 25
+  },
+  {
+    "profit": 30.49,
+    "percent": "49.18%",
+    "stp": 68,
+    "ltp": 23
+  },
+  {
+    "profit": 30.45,
+    "percent": "49.11%",
+    "stp": 82,
+    "ltp": 25
+  },
+  {
+    "profit": 30.42,
+    "percent": "49.06%",
+    "stp": 69,
+    "ltp": 25
+  },
+  {
+    "profit": 30.42,
+    "percent": "49.05%",
+    "stp": 57,
+    "ltp": 39
+  },
+  {
+    "profit": 30.39,
+    "percent": "49.02%",
+    "stp": 34,
+    "ltp": 33
+  },
+  {
+    "profit": 30.31,
+    "percent": "48.89%",
+    "stp": 68,
+    "ltp": 21
+  },
+  {
+    "profit": 30.31,
+    "percent": "48.87%",
+    "stp": 54,
+    "ltp": 25
+  },
+  {
+    "profit": 30.3,
+    "percent": "48.85%",
+    "stp": 55,
+    "ltp": 40
+  },
+  {
+    "profit": 30.29,
+    "percent": "48.84%",
+    "stp": 82,
+    "ltp": 24
+  },
+  {
+    "profit": 30.29,
+    "percent": "48.85%",
+    "stp": 54,
+    "ltp": 29
+  },
+  {
+    "profit": 30.28,
+    "percent": "48.84%",
+    "stp": 54,
+    "ltp": 43
+  },
+  {
+    "profit": 30.22,
+    "percent": "48.72%",
+    "stp": 63,
+    "ltp": 37
+  },
+  {
+    "profit": 30.22,
+    "percent": "48.74%",
+    "stp": 41,
+    "ltp": 35
+  },
+  {
+    "profit": 30.21,
+    "percent": "48.72%",
+    "stp": 73,
+    "ltp": 22
+  },
+  {
+    "profit": 30.16,
+    "percent": "48.64%",
+    "stp": 63,
+    "ltp": 33
+  },
+  {
+    "profit": 30.14,
+    "percent": "48.61%",
+    "stp": 50,
+    "ltp": 27
+  },
+  {
+    "profit": 30.08,
+    "percent": "48.52%",
+    "stp": 98,
+    "ltp": 26
+  },
+  {
+    "profit": 30.05,
+    "percent": "48.45%",
+    "stp": 77,
+    "ltp": 23
+  },
+  {
+    "profit": 30.03,
+    "percent": "48.42%",
+    "stp": 48,
+    "ltp": 28
+  },
+  {
+    "profit": 30.02,
+    "percent": "48.42%",
+    "stp": 83,
+    "ltp": 25
+  },
+  {
+    "profit": 30.01,
+    "percent": "48.4%",
+    "stp": 74,
+    "ltp": 26
+  },
+  {
+    "profit": 30.01,
+    "percent": "48.4%",
+    "stp": 58,
+    "ltp": 38
+  },
+  {
+    "profit": 29.98,
+    "percent": "48.34%",
+    "stp": 61,
+    "ltp": 36
+  },
+  {
+    "profit": 29.96,
+    "percent": "48.31%",
+    "stp": 84,
+    "ltp": 25
+  },
+  {
+    "profit": 29.96,
+    "percent": "48.31%",
+    "stp": 35,
+    "ltp": 33
+  },
+  {
+    "profit": 29.94,
+    "percent": "48.27%",
+    "stp": 35,
+    "ltp": 32
+  },
+  {
+    "profit": 29.91,
+    "percent": "48.24%",
+    "stp": 81,
+    "ltp": 26
+  },
+  {
+    "profit": 29.91,
+    "percent": "48.24%",
+    "stp": 53,
+    "ltp": 28
+  },
+  {
+    "profit": 29.87,
+    "percent": "48.16%",
+    "stp": 92,
+    "ltp": 23
+  },
+  {
+    "profit": 29.87,
+    "percent": "48.16%",
+    "stp": 67,
+    "ltp": 38
+  },
+  {
+    "profit": 29.87,
+    "percent": "48.16%",
+    "stp": 57,
+    "ltp": 37
+  },
+  {
+    "profit": 29.85,
+    "percent": "48.13%",
+    "stp": 49,
+    "ltp": 44
+  },
+  {
+    "profit": 29.84,
+    "percent": "48.13%",
+    "stp": 94,
+    "ltp": 26
+  },
+  {
+    "profit": 29.83,
+    "percent": "48.1%",
+    "stp": 97,
+    "ltp": 26
+  },
+  {
+    "profit": 29.78,
+    "percent": "48.03%",
+    "stp": 60,
+    "ltp": 32
+  },
+  {
+    "profit": 29.78,
+    "percent": "48.02%",
+    "stp": 57,
+    "ltp": 36
+  },
+  {
+    "profit": 29.77,
+    "percent": "48.02%",
+    "stp": 57,
+    "ltp": 28
+  },
+  {
+    "profit": 29.75,
+    "percent": "47.98%",
+    "stp": 96,
+    "ltp": 28
+  },
+  {
+    "profit": 29.75,
+    "percent": "47.97%",
+    "stp": 69,
+    "ltp": 24
+  },
+  {
+    "profit": 29.7,
+    "percent": "47.89%",
+    "stp": 50,
+    "ltp": 30
+  },
+  {
+    "profit": 29.66,
+    "percent": "47.82%",
+    "stp": 63,
+    "ltp": 40
+  },
+  {
+    "profit": 29.66,
+    "percent": "47.84%",
+    "stp": 36,
+    "ltp": 31
+  },
+  {
+    "profit": 29.61,
+    "percent": "47.76%",
+    "stp": 68,
+    "ltp": 39
+  },
+  {
+    "profit": 29.59,
+    "percent": "47.71%",
+    "stp": 78,
+    "ltp": 23
+  },
+  {
+    "profit": 29.58,
+    "percent": "47.71%",
+    "stp": 53,
+    "ltp": 29
+  },
+  {
+    "profit": 29.56,
+    "percent": "47.68%",
+    "stp": 97,
+    "ltp": 25
+  },
+  {
+    "profit": 29.52,
+    "percent": "47.61%",
+    "stp": 65,
+    "ltp": 28
+  },
+  {
+    "profit": 29.51,
+    "percent": "47.6%",
+    "stp": 49,
+    "ltp": 27
+  },
+  {
+    "profit": 29.5,
+    "percent": "47.56%",
+    "stp": 94,
+    "ltp": 25
+  },
+  {
+    "profit": 29.47,
+    "percent": "47.53%",
+    "stp": 98,
+    "ltp": 27
+  },
+  {
+    "profit": 29.47,
+    "percent": "47.53%",
+    "stp": 55,
+    "ltp": 28
+  },
+  {
+    "profit": 29.45,
+    "percent": "47.48%",
+    "stp": 83,
+    "ltp": 24
+  },
+  {
+    "profit": 29.45,
+    "percent": "47.5%",
+    "stp": 61,
+    "ltp": 31
+  },
+  {
+    "profit": 29.42,
+    "percent": "47.45%",
+    "stp": 62,
+    "ltp": 32
+  },
+  {
+    "profit": 29.38,
+    "percent": "47.39%",
+    "stp": 63,
+    "ltp": 30
+  },
+  {
+    "profit": 29.3,
+    "percent": "47.26%",
+    "stp": 57,
+    "ltp": 38
+  },
+  {
+    "profit": 29.29,
+    "percent": "47.24%",
+    "stp": 66,
+    "ltp": 27
+  },
+  {
+    "profit": 29.25,
+    "percent": "47.16%",
+    "stp": 54,
+    "ltp": 40
+  },
+  {
+    "profit": 29.21,
+    "percent": "47.11%",
+    "stp": 62,
+    "ltp": 30
+  },
+  {
+    "profit": 29.2,
+    "percent": "47.08%",
+    "stp": 99,
+    "ltp": 26
+  },
+  {
+    "profit": 29.19,
+    "percent": "47.06%",
+    "stp": 48,
+    "ltp": 29
+  },
+  {
+    "profit": 29.18,
+    "percent": "47.06%",
+    "stp": 65,
+    "ltp": 40
+  },
+  {
+    "profit": 29.13,
+    "percent": "46.97%",
+    "stp": 69,
+    "ltp": 37
+  },
+  {
+    "profit": 29.12,
+    "percent": "46.95%",
+    "stp": 95,
+    "ltp": 29
+  },
+  {
+    "profit": 29.12,
+    "percent": "46.95%",
+    "stp": 61,
+    "ltp": 35
+  },
+  {
+    "profit": 29.1,
+    "percent": "46.92%",
+    "stp": 82,
+    "ltp": 26
+  },
+  {
+    "profit": 29.1,
+    "percent": "46.93%",
+    "stp": 50,
+    "ltp": 44
+  },
+  {
+    "profit": 29.04,
+    "percent": "46.84%",
+    "stp": 66,
+    "ltp": 38
+  },
+  {
+    "profit": 29.03,
+    "percent": "46.81%",
+    "stp": 38,
+    "ltp": 31
+  },
+  {
+    "profit": 29.02,
+    "percent": "46.81%",
+    "stp": 63,
+    "ltp": 26
+  },
+  {
+    "profit": 29,
+    "percent": "46.77%",
+    "stp": 71,
+    "ltp": 22
+  },
+  {
+    "profit": 28.98,
+    "percent": "46.74%",
+    "stp": 65,
+    "ltp": 39
+  },
+  {
+    "profit": 28.94,
+    "percent": "46.66%",
+    "stp": 59,
+    "ltp": 43
+  },
+  {
+    "profit": 28.94,
+    "percent": "46.68%",
+    "stp": 46,
+    "ltp": 33
+  },
+  {
+    "profit": 28.91,
+    "percent": "46.63%",
+    "stp": 99,
+    "ltp": 27
+  },
+  {
+    "profit": 28.91,
+    "percent": "46.61%",
+    "stp": 37,
+    "ltp": 33
+  },
+  {
+    "profit": 28.9,
+    "percent": "46.61%",
+    "stp": 63,
+    "ltp": 41
+  },
+  {
+    "profit": 28.89,
+    "percent": "46.58%",
+    "stp": 58,
+    "ltp": 37
+  },
+  {
+    "profit": 28.87,
+    "percent": "46.55%",
+    "stp": 97,
+    "ltp": 27
+  },
+  {
+    "profit": 28.87,
+    "percent": "46.55%",
+    "stp": 96,
+    "ltp": 27
+  },
+  {
+    "profit": 28.87,
+    "percent": "46.56%",
+    "stp": 92,
+    "ltp": 24
+  },
+  {
+    "profit": 28.86,
+    "percent": "46.53%",
+    "stp": 56,
+    "ltp": 45
+  },
+  {
+    "profit": 28.85,
+    "percent": "46.52%",
+    "stp": 69,
+    "ltp": 39
+  },
+  {
+    "profit": 28.85,
+    "percent": "46.52%",
+    "stp": 45,
+    "ltp": 34
+  },
+  {
+    "profit": 28.84,
+    "percent": "46.52%",
+    "stp": 94,
+    "ltp": 29
+  },
+  {
+    "profit": 28.8,
+    "percent": "46.43%",
+    "stp": 73,
+    "ltp": 26
+  },
+  {
+    "profit": 28.78,
+    "percent": "46.42%",
+    "stp": 84,
+    "ltp": 24
+  },
+  {
+    "profit": 28.76,
+    "percent": "46.39%",
+    "stp": 45,
+    "ltp": 35
+  },
+  {
+    "profit": 28.71,
+    "percent": "46.31%",
+    "stp": 59,
+    "ltp": 33
+  },
+  {
+    "profit": 28.71,
+    "percent": "46.29%",
+    "stp": 48,
+    "ltp": 31
+  },
+  {
+    "profit": 28.66,
+    "percent": "46.21%",
+    "stp": 68,
+    "ltp": 24
+  },
+  {
+    "profit": 28.65,
+    "percent": "46.21%",
+    "stp": 71,
+    "ltp": 21
+  },
+  {
+    "profit": 28.65,
+    "percent": "46.21%",
+    "stp": 53,
+    "ltp": 30
+  },
+  {
+    "profit": 28.63,
+    "percent": "46.16%",
+    "stp": 56,
+    "ltp": 38
+  },
+  {
+    "profit": 28.61,
+    "percent": "46.13%",
+    "stp": 93,
+    "ltp": 25
+  },
+  {
+    "profit": 28.57,
+    "percent": "46.08%",
+    "stp": 83,
+    "ltp": 23
+  },
+  {
+    "profit": 28.54,
+    "percent": "46.03%",
+    "stp": 65,
+    "ltp": 29
+  },
+  {
+    "profit": 28.53,
+    "percent": "46.02%",
+    "stp": 50,
+    "ltp": 32
+  },
+  {
+    "profit": 28.53,
+    "percent": "46.02%",
+    "stp": 38,
+    "ltp": 33
+  },
+  {
+    "profit": 28.52,
+    "percent": "45.98%",
+    "stp": 58,
+    "ltp": 35
+  },
+  {
+    "profit": 28.5,
+    "percent": "45.97%",
+    "stp": 86,
+    "ltp": 24
+  },
+  {
+    "profit": 28.46,
+    "percent": "45.89%",
+    "stp": 56,
+    "ltp": 46
+  },
+  {
+    "profit": 28.42,
+    "percent": "45.82%",
+    "stp": 47,
+    "ltp": 30
+  },
+  {
+    "profit": 28.41,
+    "percent": "45.82%",
+    "stp": 84,
+    "ltp": 22
+  },
+  {
+    "profit": 28.41,
+    "percent": "45.82%",
+    "stp": 70,
+    "ltp": 23
+  },
+  {
+    "profit": 28.4,
+    "percent": "45.81%",
+    "stp": 95,
+    "ltp": 25
+  },
+  {
+    "profit": 28.4,
+    "percent": "45.81%",
+    "stp": 63,
+    "ltp": 29
+  },
+  {
+    "profit": 28.39,
+    "percent": "45.79%",
+    "stp": 37,
+    "ltp": 35
+  },
+  {
+    "profit": 28.36,
+    "percent": "45.73%",
+    "stp": 36,
+    "ltp": 33
+  },
+  {
+    "profit": 28.35,
+    "percent": "45.73%",
+    "stp": 50,
+    "ltp": 31
+  },
+  {
+    "profit": 28.34,
+    "percent": "45.69%",
+    "stp": 95,
+    "ltp": 26
+  },
+  {
+    "profit": 28.34,
+    "percent": "45.71%",
+    "stp": 75,
+    "ltp": 26
+  },
+  {
+    "profit": 28.33,
+    "percent": "45.69%",
+    "stp": 42,
+    "ltp": 37
+  },
+  {
+    "profit": 28.32,
+    "percent": "45.68%",
+    "stp": 67,
+    "ltp": 21
+  },
+  {
+    "profit": 28.31,
+    "percent": "45.64%",
+    "stp": 60,
+    "ltp": 44
+  },
+  {
+    "profit": 28.29,
+    "percent": "45.63%",
+    "stp": 95,
+    "ltp": 28
+  },
+  {
+    "profit": 28.27,
+    "percent": "45.6%",
+    "stp": 54,
+    "ltp": 44
+  },
+  {
+    "profit": 28.27,
+    "percent": "45.6%",
+    "stp": 43,
+    "ltp": 37
+  },
+  {
+    "profit": 28.25,
+    "percent": "45.55%",
+    "stp": 86,
+    "ltp": 25
+  },
+  {
+    "profit": 28.25,
+    "percent": "45.56%",
+    "stp": 81,
+    "ltp": 24
+  },
+  {
+    "profit": 28.25,
+    "percent": "45.55%",
+    "stp": 62,
+    "ltp": 35
+  },
+  {
+    "profit": 28.23,
+    "percent": "45.52%",
+    "stp": 78,
+    "ltp": 26
+  },
+  {
+    "profit": 28.19,
+    "percent": "45.47%",
+    "stp": 63,
+    "ltp": 32
+  },
+  {
+    "profit": 28.17,
+    "percent": "45.42%",
+    "stp": 62,
+    "ltp": 43
+  },
+  {
+    "profit": 28.16,
+    "percent": "45.42%",
+    "stp": 53,
+    "ltp": 44
+  },
+  {
+    "profit": 28.14,
+    "percent": "45.39%",
+    "stp": 61,
+    "ltp": 30
+  },
+  {
+    "profit": 28.13,
+    "percent": "45.37%",
+    "stp": 63,
+    "ltp": 31
+  },
+  {
+    "profit": 28.13,
+    "percent": "45.35%",
+    "stp": 53,
+    "ltp": 32
+  },
+  {
+    "profit": 28.13,
+    "percent": "45.35%",
+    "stp": 52,
+    "ltp": 42
+  },
+  {
+    "profit": 28.12,
+    "percent": "45.34%",
+    "stp": 96,
+    "ltp": 25
+  },
+  {
+    "profit": 28.12,
+    "percent": "45.34%",
+    "stp": 86,
+    "ltp": 26
+  },
+  {
+    "profit": 28.12,
+    "percent": "45.34%",
+    "stp": 58,
+    "ltp": 23
+  },
+  {
+    "profit": 28.1,
+    "percent": "45.31%",
+    "stp": 66,
+    "ltp": 39
+  },
+  {
+    "profit": 28.1,
+    "percent": "45.31%",
+    "stp": 45,
+    "ltp": 31
+  },
+  {
+    "profit": 28.09,
+    "percent": "45.29%",
+    "stp": 46,
+    "ltp": 31
+  },
+  {
+    "profit": 28.09,
+    "percent": "45.31%",
+    "stp": 44,
+    "ltp": 36
+  },
+  {
+    "profit": 28.07,
+    "percent": "45.27%",
+    "stp": 42,
+    "ltp": 35
+  },
+  {
+    "profit": 28.04,
+    "percent": "45.23%",
+    "stp": 62,
+    "ltp": 36
+  },
+  {
+    "profit": 28,
+    "percent": "45.16%",
+    "stp": 88,
+    "ltp": 26
+  },
+  {
+    "profit": 28,
+    "percent": "45.16%",
+    "stp": 69,
+    "ltp": 23
+  },
+  {
+    "profit": 27.99,
+    "percent": "45.13%",
+    "stp": 43,
+    "ltp": 35
+  },
+  {
+    "profit": 27.98,
+    "percent": "45.11%",
+    "stp": 59,
+    "ltp": 37
+  },
+  {
+    "profit": 27.96,
+    "percent": "45.1%",
+    "stp": 85,
+    "ltp": 22
+  },
+  {
+    "profit": 27.94,
+    "percent": "45.06%",
+    "stp": 83,
+    "ltp": 22
+  },
+  {
+    "profit": 27.89,
+    "percent": "44.98%",
+    "stp": 93,
+    "ltp": 24
+  },
+  {
+    "profit": 27.87,
+    "percent": "44.94%",
+    "stp": 87,
+    "ltp": 23
+  },
+  {
+    "profit": 27.85,
+    "percent": "44.9%",
+    "stp": 96,
+    "ltp": 26
+  },
+  {
+    "profit": 27.85,
+    "percent": "44.9%",
+    "stp": 85,
+    "ltp": 24
+  },
+  {
+    "profit": 27.81,
+    "percent": "44.85%",
+    "stp": 64,
+    "ltp": 32
+  },
+  {
+    "profit": 27.76,
+    "percent": "44.76%",
+    "stp": 51,
+    "ltp": 32
+  },
+  {
+    "profit": 27.75,
+    "percent": "44.74%",
+    "stp": 99,
+    "ltp": 33
+  },
+  {
+    "profit": 27.75,
+    "percent": "44.76%",
+    "stp": 93,
+    "ltp": 27
+  },
+  {
+    "profit": 27.75,
+    "percent": "44.76%",
+    "stp": 69,
+    "ltp": 38
+  },
+  {
+    "profit": 27.69,
+    "percent": "44.66%",
+    "stp": 63,
+    "ltp": 28
+  },
+  {
+    "profit": 27.68,
+    "percent": "44.63%",
+    "stp": 62,
+    "ltp": 26
+  },
+  {
+    "profit": 27.68,
+    "percent": "44.64%",
+    "stp": 58,
+    "ltp": 28
+  },
+  {
+    "profit": 27.63,
+    "percent": "44.56%",
+    "stp": 64,
+    "ltp": 31
+  },
+  {
+    "profit": 27.63,
+    "percent": "44.55%",
+    "stp": 51,
+    "ltp": 26
+  },
+  {
+    "profit": 27.58,
+    "percent": "44.48%",
+    "stp": 91,
+    "ltp": 24
+  },
+  {
+    "profit": 27.56,
+    "percent": "44.45%",
+    "stp": 84,
+    "ltp": 23
+  },
+  {
+    "profit": 27.55,
+    "percent": "44.42%",
+    "stp": 59,
+    "ltp": 34
+  },
+  {
+    "profit": 27.54,
+    "percent": "44.4%",
+    "stp": 76,
+    "ltp": 27
+  },
+  {
+    "profit": 27.54,
+    "percent": "44.42%",
+    "stp": 70,
+    "ltp": 37
+  },
+  {
+    "profit": 27.46,
+    "percent": "44.29%",
+    "stp": 87,
+    "ltp": 22
+  },
+  {
+    "profit": 27.46,
+    "percent": "44.29%",
+    "stp": 86,
+    "ltp": 23
+  },
+  {
+    "profit": 27.45,
+    "percent": "44.26%",
+    "stp": 82,
+    "ltp": 23
+  },
+  {
+    "profit": 27.45,
+    "percent": "44.27%",
+    "stp": 74,
+    "ltp": 40
+  },
+  {
+    "profit": 27.44,
+    "percent": "44.24%",
+    "stp": 93,
+    "ltp": 26
+  },
+  {
+    "profit": 27.44,
+    "percent": "44.26%",
+    "stp": 85,
+    "ltp": 23
+  },
+  {
+    "profit": 27.38,
+    "percent": "44.16%",
+    "stp": 95,
+    "ltp": 31
+  },
+  {
+    "profit": 27.38,
+    "percent": "44.16%",
+    "stp": 60,
+    "ltp": 43
+  },
+  {
+    "profit": 27.37,
+    "percent": "44.13%",
+    "stp": 77,
+    "ltp": 26
+  },
+  {
+    "profit": 27.37,
+    "percent": "44.14%",
+    "stp": 53,
+    "ltp": 45
+  },
+  {
+    "profit": 27.32,
+    "percent": "44.05%",
+    "stp": 94,
+    "ltp": 28
+  },
+  {
+    "profit": 27.31,
+    "percent": "44.05%",
+    "stp": 64,
+    "ltp": 38
+  },
+  {
+    "profit": 27.3,
+    "percent": "44.03%",
+    "stp": 65,
+    "ltp": 31
+  },
+  {
+    "profit": 27.28,
+    "percent": "44%",
+    "stp": 91,
+    "ltp": 27
+  },
+  {
+    "profit": 27.28,
+    "percent": "43.98%",
+    "stp": 58,
+    "ltp": 36
+  },
+  {
+    "profit": 27.27,
+    "percent": "43.98%",
+    "stp": 39,
+    "ltp": 33
+  },
+  {
+    "profit": 27.26,
+    "percent": "43.97%",
+    "stp": 92,
+    "ltp": 26
+  },
+  {
+    "profit": 27.23,
+    "percent": "43.9%",
+    "stp": 59,
+    "ltp": 44
+  },
+  {
+    "profit": 27.2,
+    "percent": "43.85%",
+    "stp": 35,
+    "ltp": 30
+  },
+  {
+    "profit": 27.19,
+    "percent": "43.84%",
+    "stp": 57,
+    "ltp": 45
+  },
+  {
+    "profit": 27.19,
+    "percent": "43.84%",
+    "stp": 42,
+    "ltp": 36
+  },
+  {
+    "profit": 27.17,
+    "percent": "43.82%",
+    "stp": 94,
+    "ltp": 27
+  },
+  {
+    "profit": 27.17,
+    "percent": "43.81%",
+    "stp": 92,
+    "ltp": 27
+  },
+  {
+    "profit": 27.17,
+    "percent": "43.81%",
+    "stp": 44,
+    "ltp": 34
+  },
+  {
+    "profit": 27.16,
+    "percent": "43.81%",
+    "stp": 96,
+    "ltp": 35
+  },
+  {
+    "profit": 27.15,
+    "percent": "43.77%",
+    "stp": 56,
+    "ltp": 37
+  },
+  {
+    "profit": 27.14,
+    "percent": "43.77%",
+    "stp": 65,
+    "ltp": 33
+  },
+  {
+    "profit": 27.12,
+    "percent": "43.73%",
+    "stp": 67,
+    "ltp": 40
+  },
+  {
+    "profit": 27.11,
+    "percent": "43.71%",
+    "stp": 69,
+    "ltp": 36
+  },
+  {
+    "profit": 27.11,
+    "percent": "43.73%",
+    "stp": 64,
+    "ltp": 29
+  },
+  {
+    "profit": 27.1,
+    "percent": "43.69%",
+    "stp": 56,
+    "ltp": 39
+  },
+  {
+    "profit": 27.09,
+    "percent": "43.69%",
+    "stp": 73,
+    "ltp": 40
+  },
+  {
+    "profit": 27.09,
+    "percent": "43.69%",
+    "stp": 62,
+    "ltp": 46
+  },
+  {
+    "profit": 27.07,
+    "percent": "43.66%",
+    "stp": 90,
+    "ltp": 25
+  },
+  {
+    "profit": 27.06,
+    "percent": "43.64%",
+    "stp": 96,
+    "ltp": 31
+  },
+  {
+    "profit": 27.06,
+    "percent": "43.64%",
+    "stp": 68,
+    "ltp": 37
+  },
+  {
+    "profit": 27.03,
+    "percent": "43.6%",
+    "stp": 77,
+    "ltp": 27
+  },
+  {
+    "profit": 27.03,
+    "percent": "43.6%",
+    "stp": 70,
+    "ltp": 26
+  },
+  {
+    "profit": 27,
+    "percent": "43.55%",
+    "stp": 87,
+    "ltp": 24
+  },
+  {
+    "profit": 27,
+    "percent": "43.55%",
+    "stp": 74,
+    "ltp": 41
+  },
+  {
+    "profit": 27,
+    "percent": "43.55%",
+    "stp": 64,
+    "ltp": 30
+  },
+  {
+    "profit": 26.99,
+    "percent": "43.53%",
+    "stp": 66,
+    "ltp": 26
+  },
+  {
+    "profit": 26.95,
+    "percent": "43.45%",
+    "stp": 50,
+    "ltp": 48
+  },
+  {
+    "profit": 26.94,
+    "percent": "43.45%",
+    "stp": 86,
+    "ltp": 22
+  },
+  {
+    "profit": 26.93,
+    "percent": "43.44%",
+    "stp": 64,
+    "ltp": 36
+  },
+  {
+    "profit": 26.92,
+    "percent": "43.4%",
+    "stp": 37,
+    "ltp": 29
+  },
+  {
+    "profit": 26.91,
+    "percent": "43.4%",
+    "stp": 47,
+    "ltp": 33
+  },
+  {
+    "profit": 26.9,
+    "percent": "43.39%",
+    "stp": 61,
+    "ltp": 42
+  },
+  {
+    "profit": 26.88,
+    "percent": "43.34%",
+    "stp": 48,
+    "ltp": 30
+  },
+  {
+    "profit": 26.86,
+    "percent": "43.32%",
+    "stp": 72,
+    "ltp": 40
+  },
+  {
+    "profit": 26.85,
+    "percent": "43.29%",
+    "stp": 55,
+    "ltp": 39
+  },
+  {
+    "profit": 26.82,
+    "percent": "43.24%",
+    "stp": 84,
+    "ltp": 27
+  },
+  {
+    "profit": 26.82,
+    "percent": "43.24%",
+    "stp": 63,
+    "ltp": 34
+  },
+  {
+    "profit": 26.81,
+    "percent": "43.23%",
+    "stp": 75,
+    "ltp": 27
+  },
+  {
+    "profit": 26.79,
+    "percent": "43.19%",
+    "stp": 47,
+    "ltp": 45
+  },
+  {
+    "profit": 26.77,
+    "percent": "43.18%",
+    "stp": 50,
+    "ltp": 47
+  },
+  {
+    "profit": 26.75,
+    "percent": "43.13%",
+    "stp": 65,
+    "ltp": 26
+  },
+  {
+    "profit": 26.75,
+    "percent": "43.13%",
+    "stp": 49,
+    "ltp": 31
+  },
+  {
+    "profit": 26.75,
+    "percent": "43.13%",
+    "stp": 48,
+    "ltp": 44
+  },
+  {
+    "profit": 26.74,
+    "percent": "43.11%",
+    "stp": 98,
+    "ltp": 36
+  },
+  {
+    "profit": 26.74,
+    "percent": "43.11%",
+    "stp": 97,
+    "ltp": 34
+  },
+  {
+    "profit": 26.74,
+    "percent": "43.13%",
+    "stp": 64,
+    "ltp": 33
+  },
+  {
+    "profit": 26.73,
+    "percent": "43.1%",
+    "stp": 53,
+    "ltp": 31
+  },
+  {
+    "profit": 26.71,
+    "percent": "43.08%",
+    "stp": 92,
+    "ltp": 25
+  },
+  {
+    "profit": 26.71,
+    "percent": "43.08%",
+    "stp": 75,
+    "ltp": 41
+  },
+  {
+    "profit": 26.7,
+    "percent": "43.05%",
+    "stp": 53,
+    "ltp": 41
+  },
+  {
+    "profit": 26.69,
+    "percent": "43.05%",
+    "stp": 49,
+    "ltp": 32
+  },
+  {
+    "profit": 26.68,
+    "percent": "43.02%",
+    "stp": 67,
+    "ltp": 37
+  },
+  {
+    "profit": 26.64,
+    "percent": "42.95%",
+    "stp": 66,
+    "ltp": 28
+  },
+  {
+    "profit": 26.63,
+    "percent": "42.94%",
+    "stp": 89,
+    "ltp": 24
+  },
+  {
+    "profit": 26.6,
+    "percent": "42.9%",
+    "stp": 47,
+    "ltp": 32
+  },
+  {
+    "profit": 26.59,
+    "percent": "42.87%",
+    "stp": 79,
+    "ltp": 26
+  },
+  {
+    "profit": 26.53,
+    "percent": "42.79%",
+    "stp": 46,
+    "ltp": 34
+  },
+  {
+    "profit": 26.52,
+    "percent": "42.77%",
+    "stp": 94,
+    "ltp": 33
+  },
+  {
+    "profit": 26.5,
+    "percent": "42.74%",
+    "stp": 69,
+    "ltp": 26
+  },
+  {
+    "profit": 26.49,
+    "percent": "42.71%",
+    "stp": 71,
+    "ltp": 26
+  },
+  {
+    "profit": 26.48,
+    "percent": "42.71%",
+    "stp": 76,
+    "ltp": 41
+  },
+  {
+    "profit": 26.47,
+    "percent": "42.68%",
+    "stp": 68,
+    "ltp": 38
+  },
+  {
+    "profit": 26.46,
+    "percent": "42.66%",
+    "stp": 91,
+    "ltp": 23
+  },
+  {
+    "profit": 26.46,
+    "percent": "42.66%",
+    "stp": 11,
+    "ltp": 21
+  },
+  {
+    "profit": 26.45,
+    "percent": "42.66%",
+    "stp": 64,
+    "ltp": 26
+  },
+  {
+    "profit": 26.45,
+    "percent": "42.65%",
+    "stp": 62,
+    "ltp": 34
+  },
+  {
+    "profit": 26.44,
+    "percent": "42.63%",
+    "stp": 98,
+    "ltp": 34
+  },
+  {
+    "profit": 26.42,
+    "percent": "42.61%",
+    "stp": 87,
+    "ltp": 26
+  },
+  {
+    "profit": 26.41,
+    "percent": "42.6%",
+    "stp": 67,
+    "ltp": 25
+  },
+  {
+    "profit": 26.41,
+    "percent": "42.6%",
+    "stp": 63,
+    "ltp": 27
+  },
+  {
+    "profit": 26.41,
+    "percent": "42.6%",
+    "stp": 34,
+    "ltp": 32
+  },
+  {
+    "profit": 26.4,
+    "percent": "42.58%",
+    "stp": 95,
+    "ltp": 27
+  },
+  {
+    "profit": 26.39,
+    "percent": "42.55%",
+    "stp": 47,
+    "ltp": 31
+  },
+  {
+    "profit": 26.31,
+    "percent": "42.44%",
+    "stp": 62,
+    "ltp": 42
+  },
+  {
+    "profit": 26.23,
+    "percent": "42.29%",
+    "stp": 75,
+    "ltp": 39
+  },
+  {
+    "profit": 26.23,
+    "percent": "42.29%",
+    "stp": 64,
+    "ltp": 34
+  },
+  {
+    "profit": 26.23,
+    "percent": "42.29%",
+    "stp": 45,
+    "ltp": 32
+  },
+  {
+    "profit": 26.22,
+    "percent": "42.27%",
+    "stp": 66,
+    "ltp": 36
+  },
+  {
+    "profit": 26.22,
+    "percent": "42.27%",
+    "stp": 41,
+    "ltp": 37
+  },
+  {
+    "profit": 26.19,
+    "percent": "42.24%",
+    "stp": 90,
+    "ltp": 24
+  },
+  {
+    "profit": 26.17,
+    "percent": "42.21%",
+    "stp": 78,
+    "ltp": 27
+  },
+  {
+    "profit": 26.16,
+    "percent": "42.18%",
+    "stp": 89,
+    "ltp": 26
+  },
+  {
+    "profit": 26.16,
+    "percent": "42.18%",
+    "stp": 49,
+    "ltp": 30
+  },
+  {
+    "profit": 26.13,
+    "percent": "42.15%",
+    "stp": 69,
+    "ltp": 22
+  },
+  {
+    "profit": 26.12,
+    "percent": "42.11%",
+    "stp": 79,
+    "ltp": 27
+  },
+  {
+    "profit": 26.12,
+    "percent": "42.13%",
+    "stp": 65,
+    "ltp": 30
+  },
+  {
+    "profit": 26.1,
+    "percent": "42.1%",
+    "stp": 50,
+    "ltp": 34
+  },
+  {
+    "profit": 26.09,
+    "percent": "42.08%",
+    "stp": 57,
+    "ltp": 29
+  },
+  {
+    "profit": 26.09,
+    "percent": "42.08%",
+    "stp": 38,
+    "ltp": 30
+  },
+  {
+    "profit": 26.07,
+    "percent": "42.03%",
+    "stp": 70,
+    "ltp": 38
+  },
+  {
+    "profit": 26.06,
+    "percent": "42.02%",
+    "stp": 58,
+    "ltp": 46
+  },
+  {
+    "profit": 26.05,
+    "percent": "42.02%",
+    "stp": 65,
+    "ltp": 27
+  },
+  {
+    "profit": 26.05,
+    "percent": "42.02%",
+    "stp": 45,
+    "ltp": 36
+  },
+  {
+    "profit": 26.04,
+    "percent": "42%",
+    "stp": 88,
+    "ltp": 23
+  },
+  {
+    "profit": 26.03,
+    "percent": "41.97%",
+    "stp": 61,
+    "ltp": 34
+  },
+  {
+    "profit": 26,
+    "percent": "41.92%",
+    "stp": 76,
+    "ltp": 38
+  },
+  {
+    "profit": 25.99,
+    "percent": "41.9%",
+    "stp": 71,
+    "ltp": 42
+  },
+  {
+    "profit": 25.98,
+    "percent": "41.89%",
+    "stp": 59,
+    "ltp": 36
+  },
+  {
+    "profit": 25.97,
+    "percent": "41.87%",
+    "stp": 70,
+    "ltp": 42
+  },
+  {
+    "profit": 25.96,
+    "percent": "41.85%",
+    "stp": 99,
+    "ltp": 35
+  },
+  {
+    "profit": 25.93,
+    "percent": "41.82%",
+    "stp": 88,
+    "ltp": 22
+  },
+  {
+    "profit": 25.92,
+    "percent": "41.81%",
+    "stp": 64,
+    "ltp": 39
+  },
+  {
+    "profit": 25.9,
+    "percent": "41.77%",
+    "stp": 70,
+    "ltp": 21
+  }
+]
